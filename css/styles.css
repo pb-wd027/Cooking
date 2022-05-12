@@ -1,0 +1,31 @@
+/* #right
+{
+    position:absolute;
+    right:0px;
+} */
+/* body{
+    background-color: gray;
+    color: gray;
+} */
+
+.flex-center { 
+    display:flex; align-items: center; justify-content: center; flex-direction: column; background-color: gray;
+} 
+
+.img-fluid {
+    width: 1471px; 
+}
+
+.navbar-nav {
+    width: 1471px;
+}
+
+/* .form-control {
+    display: flex;
+    align-items: flex-end;
+} */
+
+
+/* table {
+    padding: 100px;
+} */
