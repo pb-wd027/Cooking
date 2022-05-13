@@ -1,8 +1,8 @@
-body{
-    width: 100vw;
-    display: flex;
+.recbody{
+    /*width: 100vw;
+    display: flex;*/
     justify-content: center;
-    padding: 20px;
+    /*padding: 20px;*/
 }
 .bbq-recipe{
     padding: 30px;
@@ -13,6 +13,7 @@ body{
 .bbq-recipe img{
     width: 300px;
     height: auto;
+    margin-left: 35px;
 }
 .list-group-item{
     max-width: 350px;
